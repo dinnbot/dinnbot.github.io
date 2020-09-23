@@ -1,4 +1,4 @@
-var weave = document.getElementById('weave');
+var weave = document.getElementById('content');
 var height = weave.clientHeight;
 var width = weave.clientWidth;
 var bird = document.getElementsByClassName("bird")[0];
